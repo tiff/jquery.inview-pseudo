@@ -1,0 +1,15 @@
+{
+  "name": "jquery.inview-pseudo",
+  "version": "0.1.0",
+  "homepage": "https://github.com/tiff/jquery.inview-pseudo",
+  "authors": [{
+    "name": "Christopher Blum",
+    "homepage": "https://github.com/tiff"
+  }],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tiff/jquery.inview-pseudo.git"
+  },
+  "description": "Pseudo :inview selector for jQuery",
+  "main": "jquery.inview-pseudo.js"
+}
